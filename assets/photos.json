@@ -1,0 +1,302 @@
+[
+ {
+  "id": "01",
+  "name": "Seafood Soba",
+  "date": "12 Nov 2026",
+  "full": "assets/photos/full/01.webp",
+  "thumb": "assets/photos/thumb/01.webp",
+  "w": 1280,
+  "h": 1600,
+  "color": "#705126"
+ },
+ {
+  "id": "02",
+  "name": "Coke & Sprite now available",
+  "date": "27 Oct 2026",
+  "full": "assets/photos/full/02.webp",
+  "thumb": "assets/photos/thumb/02.webp",
+  "w": 1024,
+  "h": 1280,
+  "color": "#6e4834"
+ },
+ {
+  "id": "03",
+  "name": "Spicy Seafood / Tom Yum Chicken Ramen",
+  "date": "25 Oct 2026",
+  "full": "assets/photos/full/03.webp",
+  "thumb": "assets/photos/thumb/03.webp",
+  "w": 1024,
+  "h": 1280,
+  "color": "#644836"
+ },
+ {
+  "id": "04",
+  "name": "Spice, Sizzle & Soul",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/04.webp",
+  "thumb": "assets/photos/thumb/04.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#6b503a"
+ },
+ {
+  "id": "05",
+  "name": "Spice, Sizzle & Soul (2nd)",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/05.webp",
+  "thumb": "assets/photos/thumb/05.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#6d4e3b"
+ },
+ {
+  "id": "06",
+  "name": "Sriracha Chicken",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/06.webp",
+  "thumb": "assets/photos/thumb/06.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#534539"
+ },
+ {
+  "id": "07",
+  "name": "Crab Curry",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/07.webp",
+  "thumb": "assets/photos/thumb/07.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#634223"
+ },
+ {
+  "id": "08",
+  "name": "Egg Fried Rice",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/08.webp",
+  "thumb": "assets/photos/thumb/08.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#7f5a2d"
+ },
+ {
+  "id": "09",
+  "name": "Spice, Sizzle & Soul (spicy beef bowl)",
+  "date": "22 Oct 2026",
+  "full": "assets/photos/full/09.webp",
+  "thumb": "assets/photos/thumb/09.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#6f5645"
+ },
+ {
+  "id": "10",
+  "name": "International Chefs Day",
+  "date": "20 Oct 2026",
+  "full": "assets/photos/full/10.webp",
+  "thumb": "assets/photos/thumb/10.webp",
+  "w": 1024,
+  "h": 1280,
+  "color": "#755246"
+ },
+ {
+  "id": "11",
+  "name": "Can You Guess This Dish?",
+  "date": "20 Oct 2026",
+  "full": "assets/photos/full/11.webp",
+  "thumb": "assets/photos/thumb/11.webp",
+  "w": 1122,
+  "h": 1402,
+  "color": "#ae9682"
+ },
+ {
+  "id": "12",
+  "name": "Ebi Meets Dory",
+  "date": "18 Oct 2026",
+  "full": "assets/photos/full/12.webp",
+  "thumb": "assets/photos/thumb/12.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#383447"
+ },
+ {
+  "id": "13",
+  "name": "Sticks of Red",
+  "date": "18 Oct 2026",
+  "full": "assets/photos/full/13.webp",
+  "thumb": "assets/photos/thumb/13.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#37354d"
+ },
+ {
+  "id": "14",
+  "name": "California Roll",
+  "date": "18 Oct 2026",
+  "full": "assets/photos/full/14.webp",
+  "thumb": "assets/photos/thumb/14.webp",
+  "w": 1500,
+  "h": 1500,
+  "color": "#36324e"
+ },
+ {
+  "id": "15",
+  "name": "Fried Cheese Roll",
+  "date": "18 Oct 2026",
+  "full": "assets/photos/full/15.webp",
+  "thumb": "assets/photos/thumb/15.webp",
+  "w": 1280,
+  "h": 1280,
+  "color": "#302a43"
+ },
+ {
+  "id": "16",
+  "name": "Two rolls, one tough choice",
+  "date": "17 Oct 2026",
+  "full": "assets/photos/full/16.webp",
+  "thumb": "assets/photos/thumb/16.webp",
+  "w": 1280,
+  "h": 1600,
+  "color": "#bea9a1"
+ },
+ {
+  "id": "17",
+  "name": "Chicken Nanban",
+  "date": "05 Oct 2026",
+  "full": "assets/photos/full/17.webp",
+  "thumb": "assets/photos/thumb/17.webp",
+  "w": 1350,
+  "h": 1350,
+  "color": "#cea678"
+ },
+ {
+  "id": "18",
+  "name": "Prawn Shumai",
+  "date": "05 Oct 2026",
+  "full": "assets/photos/full/18.webp",
+  "thumb": "assets/photos/thumb/18.webp",
+  "w": 1350,
+  "h": 1350,
+  "color": "#c99d6b"
+ },
+ {
+  "id": "19",
+  "name": "Chicken Cheese Golden Bags",
+  "date": "05 Oct 2026",
+  "full": "assets/photos/full/19.webp",
+  "thumb": "assets/photos/thumb/19.webp",
+  "w": 1350,
+  "h": 1350,
+  "color": "#c99e6f"
+ },
+ {
+  "id": "20",
+  "name": "Fish Nanban",
+  "date": "05 Oct 2026",
+  "full": "assets/photos/full/20.webp",
+  "thumb": "assets/photos/thumb/20.webp",
+  "w": 1350,
+  "h": 1350,
+  "color": "#c99b62"
+ },
+ {
+  "id": "21",
+  "name": "Ebi Meets Dory",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/21.webp",
+  "thumb": "assets/photos/thumb/21.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#ad9678"
+ },
+ {
+  "id": "22",
+  "name": "Ebi Meets Sake",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/22.webp",
+  "thumb": "assets/photos/thumb/22.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#bba88a"
+ },
+ {
+  "id": "23",
+  "name": "California Roll",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/23.webp",
+  "thumb": "assets/photos/thumb/23.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#bda993"
+ },
+ {
+  "id": "24",
+  "name": "Sticks of Red",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/24.webp",
+  "thumb": "assets/photos/thumb/24.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#baab96"
+ },
+ {
+  "id": "25",
+  "name": "Sushi rolls",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/25.webp",
+  "thumb": "assets/photos/thumb/25.webp",
+  "w": 1000,
+  "h": 1000,
+  "color": "#ae9378"
+ },
+ {
+  "id": "26",
+  "name": "Your Asian Food Fix Starts Here",
+  "date": "03 Oct 2026",
+  "full": "assets/photos/full/26.webp",
+  "thumb": "assets/photos/thumb/26.webp",
+  "w": 1000,
+  "h": 1000,
+  "color": "#b09d91"
+ },
+ {
+  "id": "27",
+  "name": "Mushroom Chicken Rice Bowl",
+  "date": "30 Sep 2026",
+  "full": "assets/photos/full/27.webp",
+  "thumb": "assets/photos/thumb/27.webp",
+  "w": 1024,
+  "h": 1280,
+  "color": "#875d34"
+ },
+ {
+  "id": "28",
+  "name": "Tomyum Chicken Ramen",
+  "date": "26 Sep 2026",
+  "full": "assets/photos/full/28.webp",
+  "thumb": "assets/photos/thumb/28.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#a1896a"
+ },
+ {
+  "id": "29",
+  "name": "Spicy Seafood",
+  "date": "26 Sep 2026",
+  "full": "assets/photos/full/29.webp",
+  "thumb": "assets/photos/thumb/29.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#8f765a"
+ },
+ {
+  "id": "30",
+  "name": "Chicken Chili",
+  "date": "26 Sep 2026",
+  "full": "assets/photos/full/30.webp",
+  "thumb": "assets/photos/thumb/30.webp",
+  "w": 1080,
+  "h": 1080,
+  "color": "#ac9274"
+ }
+]
