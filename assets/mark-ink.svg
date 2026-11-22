@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sushiology">
+  <path d="M5.5 38.5 16 20h32l10.5 18.5z" fill="#070F1E"/>
+  <path d="M21.5 23.5 19.5 36M32 22.5V36M42.5 23.5 44.5 36" stroke="#F4EFE3" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="M10.5 38.5h43v13h-43z" fill="#F4EFE3"/>
+  <path d="M17 43.5h8v8h-8zM39 43.5h8v8h-8z" fill="#070F1E"/>
+  <path d="M6 51.5h52v4.5H6z" fill="#070F1E"/>
+</svg>
